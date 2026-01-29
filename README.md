@@ -20,8 +20,6 @@
 
 ---
 
-![App Poster](./app_poster.png)
-
 ---
 
 ## 📖 What This Project Is About
@@ -142,8 +140,6 @@ I'm implementing these security measures:
 ---
 
 ## 📊 System Architecture
-
-![System Flowchart](./system_flowchart.png)
 
 The system has 4 layers:
 1. **Apps Layer** - Faculty App & Student App
